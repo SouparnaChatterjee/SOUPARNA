@@ -1,7 +1,7 @@
 <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%"/>
 <!-- <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="100%"/> -->
 
-<h3>Hello < WORLD/ >! <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3> 
+<h3>HELLO WORLD! <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3> 
 
 ![GitHub Profile Views](https://img.shields.io/github/followers/SouparnaChatterjee?style=for-the-badge&logo=github&logoColor=white&color=green)
 
@@ -84,14 +84,13 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 <br> -->
 
-<h3>Currently listening to 🎶</h3>
+<h3>Let Us Connect!</h3>
 <div align="center">
-  <a href="https://open.spotify.com/user/31rvlrjwtlfnafs4ri3k6vq7mppm">
-    <img src="https://spotify-now-playing-gold-seven.vercel.app/api/now-playing">
+  <a href="https://www.linkedin.com/in/souparna-chatterjee-864177223/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="40" height="40">
   </a>
 </div>
-<p  align="center">
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
   
 <h3>Check Out My Contribution Journey!</h3>
 
@@ -108,23 +107,8 @@
   <br>
   <br>
   <br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/bhuwan-saretia/" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Bhuwan" height="30" width="40" /></a>
- <a href="https://x.com/imBhuwan_" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="imBhuwan_" height="30" width="40" /></a>
-  <a href="https://instagram.com/imbhuwan_" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="imbhuwan_" height="30" width="40" /></a>
-  <a href="https://discord.com/users/1027218773280825378" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="Bhuwan" height="30" width="40" /></a>
-  <a href="#"><img align="center"
-      src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg"
-      alt="Bhuwan" height="30" width="40" /></a>
-  
-</p>
+
+
+
      <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
