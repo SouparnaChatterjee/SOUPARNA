@@ -57,6 +57,8 @@
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="pycharm" height="100" width="90" /> </a>
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://
 
+
+<h3>Let's Connect!</h3>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 <br>
@@ -70,12 +72,12 @@
       alt="Souparna(COCO:)" height="30" width="40" /></a>
   <a href="" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="imbhuwan_" height="30" width="40" /></a>
+      alt="COCO_SOUPARNA" height="30" width="40" /></a>
   <a href="https://discord.com/users/1027218773280825378" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="Bhuwan" height="30" width="40" /></a>
+      alt="COCO_SOUPARNA" height="30" width="40" /></a>
   <a href="#"><img align="center"
       src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg"
-      alt="Bhuwan" height="30" width="40" /></a>
+      alt="COCO_SOUPARNA" height="30" width="40" /></a>
   
 </p>
