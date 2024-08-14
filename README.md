@@ -3,6 +3,8 @@
 
 <h3>HELLO WORLD! I'm just a girl who codes<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3> 
 
+![](https://komarev.com/ghpvc/?username=SouparnaChatterjee &style=for-the-badge)
+
 ![GitHub Profile Views](https://img.shields.io/github/followers/SouparnaChatterjee?style=for-the-badge&logo=github&logoColor=white&color=green)
 
 <p align="center">
