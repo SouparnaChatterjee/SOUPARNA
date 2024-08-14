@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=%2338C2FF&size=40&height=130&width=800&lines=Heyyyy!+I'm+Souparna+%3C3;Exploring+the+Tech+World;Welcome+to+my+profile+!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=#FF0000&size=40&height=130&width=800&lines=Heyyyy!+I'm+Souparna+%3C3;Exploring+the+Tech+World;Welcome+to+my+profile+!">
 </p>
 
 <p align="center">
