@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" width="100%"/>
-<!-- <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="100%"/> -->
+<!-- <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="70%"/> -->
 
 <h3>HELLO WORLD! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3> 
 
