@@ -58,13 +58,18 @@
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://
 
 
-  <h3>Let's Connect!</h3>
-<p align="center">
-  <a href="https://www.linkedin.com/in/souparna-chatterjee-864177223/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Souparna's LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/itsemerald_28/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Souparna's Instagram" height="30" width="40" />
-  </a>
+ <p align="center">
+  <a href="https://www.linkedin.com/in/souparna-chatterjee-864177223/" target="_blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Souparna(COCO:)" height="30" width="40" /></a>
+  <a href="" target="_blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="imbhuwan_" height="30" width="40" /></a>
+  <a href="https://discord.com/users/1027218773280825378" target="_blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+      alt="Bhuwan" height="30" width="40" /></a>
+  <a href="#"><img align="center"
+      src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg"
+      alt="Bhuwan" height="30" width="40" /></a>
+  
 </p>
-
