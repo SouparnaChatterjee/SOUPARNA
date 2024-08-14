@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&center=true&vCenter=true&duration=3500&color=FF0000&size=45&height=140&width=900&lines=Heyyyy!+I'm+Souparna+%3C3;Exploring+the+Tech+World;Welcome+to+my+profile+!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&center=true&vCenter=true&duration=3500&color=FF0000&size=45&height=140&width=900&lines=Hey!+I'm+Souparna+%3C3;I'm just a girl who loves to code!;Eat+Sleep+Code+Repeat+<3!">
 </p>
 
 
