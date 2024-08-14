@@ -3,7 +3,8 @@
 
 <h3>Hello < WORLD/ >! <img src = "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3> 
 
-![](https://komarev.com/ghpvc/?username=SouparnaChatterjee&style=flat-square)
+![GitHub Profile Views](https://img.shields.io/github/followers/SouparnaChatterjee?style=for-the-badge&logo=github&logoColor=white&color=green)
+
 
 
 <p  align="center">
