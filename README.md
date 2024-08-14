@@ -10,8 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3500&color=FF0000&size=40&height=130&width=800&lines=Heyyyy!+I'm+Souparna+%3C3;Exploring+the+Tech+World;Welcome+to+my+profile+!">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&center=true&vCenter=true&duration=3500&color=FF0000&size=45&height=140&width=900&lines=Heyyyy!+I'm+Souparna+%3C3;Exploring+the+Tech+World;Welcome+to+my+profile+!">
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
