@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" width="100%"/>
 <!-- <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="100%"/> -->
 
 <h3>HELLO WORLD! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3> 
