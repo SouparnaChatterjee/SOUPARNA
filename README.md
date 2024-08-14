@@ -1,4 +1,6 @@
+Here is the updated code with the Mario GIF replaced by the new animated coder image:
 
+```html
 <img src="https://i.pinimg.com/originals/b3/26/51/b326517cd8ca44b939a1bee41a7f103c.gif" width="100%"/>
 <!-- <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="100%"/> -->
 
@@ -13,7 +15,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&center=true&vCenter=true&duration=3500&color=FF0000&size=45&height=140&width=900&lines=Heyyyy!+I'm+Souparna+%3C3;Exploring+the+Tech+World;Welcome+to+my+profile+!">
 </p>
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -61,24 +62,3 @@
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://
 
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
-<br>
-  <br>
-  <br>
-  <br>
-  <br>
-<p align="center">
-  <a href="https://www.linkedin.com/in/souparna-chatterjee-864177223/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/itsemerald_28/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://discord.com/users/1027218773280825378" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-  <a href="mailto:souparnachatterjee98@gmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="30" width="40" />
-  </a>
-</p>
