@@ -56,3 +56,15 @@
   <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/Vc64hRodlWNoj3sMxu/giphy.gif" alt="ubuntu" height="100" width="100" /> </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"> <img src="https://media.giphy.com/media/cYU6YcPE5YlJxh6otp/giphy.gif" alt="pycharm" height="100" width="90" /> </a>
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://
+
+
+  <h3>Let's Connect!</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/souparna-chatterjee-864177223/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Souparna's LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/itsemerald_28/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Souparna's Instagram" height="30" width="40" />
+  </a>
+</p>
+
