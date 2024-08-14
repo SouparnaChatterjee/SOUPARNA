@@ -58,26 +58,42 @@
   <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://
 
 
-<h3>Let's Connect!</h3>
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
-<br>
-  <br>
-  <br>
-  <br>
-  <br>
- <p align="center">
-  <a href="https://www.linkedin.com/in/souparna-chatterjee-864177223/" target="_blank"><img align="center"
+<h3 align="center">Let's Connect!</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<!-- LinkedIn Section -->
+<h4 align="center">
+  <a href="https://www.linkedin.com/in/souparna-chatterjee-864177223/" target="_blank">
+    <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Souparna(COCO:)" height="30" width="40" /></a>
-  <a href="" target="_blank"><img align="center"
+      alt="Souparna(COCO:)" height="40" width="50" />
+    LinkedIn
+  </a>
+</h4>
+
+<!-- Instagram Section -->
+<h4 align="center">
+  <a href="https://www.instagram.com/itsemerald_28/" target="_blank">
+    <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="COCO_SOUPARNA" height="30" width="40" /></a>
-  <a href="https://discord.com/users/1027218773280825378" target="_blank"><img align="center"
+      alt="COCO_SOUPARNA" height="40" width="50" />
+    Instagram
+  </a>
+</h4>
+
+<!-- Discord Section -->
+<h4 align="center">
+  <a href="https://discord.com/users/1027218773280825378" target="_blank">
+    <img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-      alt="COCO_SOUPARNA" height="30" width="40" /></a>
-  <a href="#"><img align="center"
-      src="https://cdn.worldvectorlogo.com/logos/telegram-1.svg"
-      alt="COCO_SOUPARNA" height="30" width="40" /></a>
-  
+      alt="COCO_SOUPARNA" height="40" width="50" />
+    Discord
+  </a>
+</h4>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
