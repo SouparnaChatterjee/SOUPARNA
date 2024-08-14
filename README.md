@@ -23,7 +23,8 @@
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=SouparnaChatterjee&show_icons=true&theme=github_dark&hide_border=true" />
     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=SouparnaChatterjee&theme=github-dark&hide_border=true" />
   </a>
-</p>
+</p>      
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
 [![SouparnaChatterjee's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SouparnaChatterjee&theme=tokyo-night)](https://github.com/SouparnaChatterjee/github-readme-activity-graph)
 
