@@ -93,12 +93,10 @@
 <p  align="center">
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
   
-<h3>Let the Snake eat my contributions</h3>
+<h3>Check Out My Contribution Journey!</h3>
 
 <p align='center'>
-  <img src="https://github.com/BhuwanSKumar/BhuwanSKumar/raw/output/github-contribution-grid-snake.svg">
-<!--   ![image](https://github.com/LakshaySK106/LakshaySK106/blob/output/github-contribution-grid-snake.svg) -->
-
+  <img src="https://github.com/SouparnaChatterjee/SouparnaChatterjee/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </p>
 
 
