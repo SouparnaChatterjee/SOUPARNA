@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/216654112-f34391b7-72e0-4053-8849-30dcaeaa1aaa.gif" width="48%"/>
 <!-- <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="50%"/> -->
 
-<h3>HELLO WORLD! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3> 
+<h3>HELLO WORLD! I'm just a girl who codes<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h3> 
 
 ![GitHub Profile Views](https://img.shields.io/github/followers/SouparnaChatterjee?style=for-the-badge&logo=github&logoColor=white&color=green)
 
